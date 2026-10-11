@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* font code */
+@theme {
+    --font-vietnam: "Be Vietnam Pro", sans-serif;
+}
+
+/* Swiper pagination */
+.swiper-pagination-bullet {
+    background-color: var(--color-green-500) !important;
+    margin-left: 0.25rem !important;
+    margin-right: 0.25rem !important;
+}
+
